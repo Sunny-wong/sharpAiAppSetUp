@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="org.sharpai.everywhere.appsetup"
+        id="org.deepcamera.everywhere.appsetup"
         version="1.1.0">
 
-  <name>SharpAIAppSetup</name>
+  <name>DeepCameraAppSetup</name>
 
   <description>
     To Setup Application instead of change during build
@@ -75,7 +75,7 @@
           <string>com.actiontec.sharpai</string>
           <key>CFBundleURLSchemes</key>
           <array>
-            <string>sharpai</string>
+            <string>deepcamera</string>
           </array>
         </dict>
       </array>
