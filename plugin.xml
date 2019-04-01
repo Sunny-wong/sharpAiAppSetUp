@@ -44,16 +44,16 @@
     </config-file>
 
     <config-file target="*-Info.plist" parent="NSCameraUsageDescription">
-      <string>来了吗 需要您的同意,才能使用相机</string>
+      <string>This app requires to access your camera to scan QR code</string>
     </config-file>
 
     <config-file target="*-Info.plist" parent="NSPhotoLibraryUsageDescription">
-      <string>来了吗 需要您的同意,才能访问相册</string>
+      <string>This app requires to access your photo library to scan QR code </string>
     </config-file>
 
 
     <config-file target="*-Info.plist" parent="CFBundleDisplayName">
-      <string>来了吗</string>
+      <string>Deep Camera</string>
     </config-file>
 
     <config-file target="*-Info.plist" parent="NSAppTransportSecurity">
